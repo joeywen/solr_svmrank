@@ -7,6 +7,6 @@ solr_svmrank
 
 Contact
 ============
-    joey.wen@outlook.com
-    zhgwen@outlook.com
+    #joey.wen@outlook.com
+    #zhgwen@outlook.com
 
