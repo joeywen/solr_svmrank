@@ -6,7 +6,7 @@ solr_svmrank
 
     使用时可以在SolrConfig.xml文件中进行简单配置，例如
     
-    <searchComponent name="SVMRank" class="org.apache.solr.handler.component.QueryComponent">
+     <searchComponent name="SVMRank" class="org.apache.solr.handler.component.QueryComponent">
       <str name="RankClass">com.joey.svmrank.TestModel</str>
       <lst name="models">
             <str name="mfile">rank/svmdata/model</str>
@@ -20,7 +20,7 @@ solr_svmrank
           <str name="coeffBPScore">1</str> 
           <str name="coeffStockScore">1</str> 
       </lst>
-   </searchComponent>
+    </searchComponent>
    
 
 Contact
